@@ -48,7 +48,7 @@ The following cleaning and transformation steps were performed:
 
 No-show rates vary considerably between neighbourhoods, suggesting that location may be one of the strongest factors associated with appointment attendance.
 
-![Neighbourhood Analysis](images/neighbourhood_no_show_rate.png)
+![Neighbourhood Analysis](neighbourhood_no_show_rate.png)
 
 ---
 
@@ -56,7 +56,7 @@ No-show rates vary considerably between neighbourhoods, suggesting that location
 
 Patients with longer waiting periods were more likely to miss appointments.
 
-![Waiting Time Distribution](images/waiting_days_distribution.png)
+![Waiting Time Distribution](waiting_days_distribution.png)
 
 ---
 
@@ -69,7 +69,7 @@ However, further investigation showed that patients receiving SMS reminders expe
 - Median waiting time without SMS: 0 days
 - Median waiting time with SMS: 14 days
 
-![SMS Waiting Time](images/sms_waiting_days.png)
+![SMS Waiting Time](sms_waiting_days.png)
 
 ---
 
@@ -79,7 +79,7 @@ After grouping patients by waiting-time intervals, no-show rates were consistent
 
 This suggests that the apparent negative effect of SMS reminders is largely explained by longer waiting periods rather than the reminders themselves.
 
-![SMS and Waiting Time](images/sms_waiting_bins.png)
+![SMS and Waiting Time](sms_waiting_bins.png)
 
 ---
 
